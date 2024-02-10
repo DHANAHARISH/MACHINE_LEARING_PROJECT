@@ -1,5 +1,5 @@
 # MACHINE_LEARING_PROJECT
-# Smart Manufacturing of Copper Products: Integrating IoT and Industrial Modeling
+# CopperPulse_Navigating Sales and Status with Data Wisdom
 **Introduction**
 
 The "IndustrialCopperModeling" project aims to address challenges faced by the copper industry in dealing with less complex data related to sales and pricing. The data may suffer from skewness and noise, affecting the accuracy of manual predictions. To overcome these challenges, the project proposes the implementation of machine learning regression and classification models using advanced techniques like data normalization, feature scaling, and outlier detection.
